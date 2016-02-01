@@ -1,1 +1,1 @@
-web: sh bin/run.sh
+web: bin/hubot -a slack -n chiroru
